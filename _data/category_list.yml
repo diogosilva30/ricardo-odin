@@ -10,3 +10,6 @@ servicos:
 tratamentos:
   name: Tratamentos
   description: Tratamentos que disponibilizamos
+blog:
+  name: Blog
+  description: 
