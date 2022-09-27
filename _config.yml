@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Ricardo Guimarães - Terapeuta
-description: Odin is a simple to setup and use Jekyll theme for help desks and knowledge bases. Hosts for free on Github Pages!
+description: Chamo-me Ricardo Guimarães e abracei as terapias de massagem há 4 anos. A minha formação na área permite-me efectuar diversos tipos de massagem consoante as necessidades que de momento o paciente possa precisar. Desde massagem com componente mais de relaxamento até à massagem Ayurveda, o importante é cuidar de si para que possa sentir-se melhor e mais equilibrado.
 baseurl: /ricardo-odin # the subpath of your site, e.g. /support
 url: https://diogosilva30.github.io # the base hostname AND PROTOCOL for your site, e.g. http://example.com
 permalink: /:categories/:title
@@ -29,7 +29,7 @@ use_authors: true #Set this to false to disable showing post authors
 
 brand_logo: logo.png
 brand_name: Ricardo Guimarães
-header: How can we help you?
+header: Como posso ajudar?
 subheader: Support and documentation for Odin
 
 meta_image: odin-meta.png
