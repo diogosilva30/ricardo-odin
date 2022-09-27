@@ -44,17 +44,17 @@ instagram_username: ricardoguimaraestrpt
 
 
 # Navivation
-nav_item_one: Github
-nav_item_one_link: https://github.com/TeaGuns/odin
+# nav_item_one: Marcações
+# nav_item_one_link: /booking
 
-nav_item_two: Twitter
-nav_item_two_link: https://twitter.com/TheTeaGuns
+# nav_item_two: Twitter
+# nav_item_two_link: https://twitter.com/TheTeaGuns
 
-nav_item_three: #
-nav_item_three_link: #
+# nav_item_three: #
+# nav_item_three_link: #
 
-nav_button: Return to Odin Home
-nav_button_link: https://teaguns.github.io/odin/
+nav_button: Marcações
+nav_button_link: /booking
 
 # More Help
 help_one_title: Odin Bugs
