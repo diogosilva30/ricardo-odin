@@ -1,7 +1,7 @@
 
 {% assign words = content | number_of_words %}
 {% if words < 300 %}
-    1 minute read
+    Tempo de leitura: 1 minuto
 {% else %}
-    {{ words | divided_by:150 }} minute read
+    Tempo de leitura: {{ words | divided_by:150 }} minutos
 {% endif %}
