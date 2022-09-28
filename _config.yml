@@ -21,7 +21,7 @@
 title: Ricardo Guimarães - Terapeuta
 description: Chamo-me Ricardo Guimarães e abracei as terapias de massagem há 4 anos. A minha formação na área permite-me efectuar diversos tipos de massagem consoante as necessidades que de momento o paciente possa precisar. Desde massagem com componente mais de relaxamento até à massagem Ayurveda, o importante é cuidar de si para que possa sentir-se melhor e mais equilibrado.
 baseurl: / # the subpath of your site, e.g. /support
-url: https://test.ricardoguimaraes.pt # the base hostname AND PROTOCOL for your site, e.g. http://example.com
+url: https://ricardoguimaraes.pt # the base hostname AND PROTOCOL for your site, e.g. http://example.com
 permalink: /:categories/:title
 #Define whether this is a knowledge base, help center, or something else
 content_type: #
