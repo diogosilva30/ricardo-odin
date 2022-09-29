@@ -9,7 +9,6 @@ sections:
 - type: document
   path: _data/authors.yml
   label: Autores
-  match: "**/*"
 - type: document
   path: _config.yml
   label: Definições gerais
