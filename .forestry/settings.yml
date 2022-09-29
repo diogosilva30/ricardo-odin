@@ -13,11 +13,6 @@ sections:
 - type: document
   path: _config.yml
   label: Definições gerais
-- type: directory
-  path: _drafts
-  label: Drafts
-  create: all
-  match: "**/*"
 - type: heading
   label: Conteúdo
 - type: jekyll-pages
