@@ -4,19 +4,23 @@ auto_deploy: false
 admin_path: admin
 webhook_url: 
 sections:
+- type: directory
+  path: public
+  label: Public
+  create: all
+  match: "**/*"
 - type: heading
   label: Definições
 - type: document
   path: public/favicon.ico
   label: Favicon
-  match: "**/*"
 - type: document
   path: _data/category_list.yml
   label: Categorias Conteúdo
 - type: document
   path: _scss/_variables.scss
   label: Variáveis CSS
-  read_only: true
+  read_only: false
 - type: document
   path: _data/authors.yml
   label: Autores
