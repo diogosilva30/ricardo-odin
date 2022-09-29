@@ -6,6 +6,10 @@ webhook_url:
 sections:
 - type: heading
   label: Definições
+- type: document
+  path: _config.yml
+  label: Definições gerais
+  match: "**/*"
 - type: directory
   path: _drafts
   label: Drafts
