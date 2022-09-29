@@ -12,12 +12,9 @@ fields:
   description: A descrição do website é usada para SEO, e aparece na descrição do
     Google e publicações sempre que alguém partilha o link do site (e.g. Facebook)
 - type: text
-  name: baseurl
-  label: URL
-  description: O URL do website
-- type: text
   name: url
-  label: url
+  label: URL
+  description: O URL do website.
 - type: boolean
   name: use_authors
   label: Utilizar autores
