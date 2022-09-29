@@ -14,7 +14,9 @@ fields:
     label: description
   - type: boolean
     name: show_articles_count
-    label: show_articles_count
+    label: Mostrar contagem artigos
+    description: Se deve ser apresentada a contagem de artigos existentes nesta categoria
+      no menu inicial.
 - type: field_group
   name: servicos
   label: servicos
