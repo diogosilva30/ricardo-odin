@@ -1,0 +1,25 @@
+---
+label: Serviço
+hide_body: false
+fields:
+- type: text
+  name: layout
+  label: layout
+- type: text
+  name: title
+  label: title
+- type: datetime
+  name: date
+  label: date
+- type: text
+  name: category
+  label: category
+- type: text
+  name: subcategory
+  label: subcategory
+- type: text
+  name: author
+  label: author
+- type: text
+  name: short-description
+  label: short-description
