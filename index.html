@@ -12,20 +12,20 @@ title: Home
           <div class="column col-12 text-center">
             <h6 class="text-secondary">Selecione uma categoria</h6>
           </div>
-          {% for category in site.categories %}
+          {% for category in site.data.category_list  %}
             {% capture category_name %}{{ category | first }}{% endcapture %}
-            {% assign page_category = site.data.category_list[category_name] %}
               <div class="column col-3 col-md-6 col-sm-12">
                 <a href="{{ site.baseurl }}/{{ category_name | slugify }}">
                   <div class="card card-link">
                     <div class="card-body text-center my-4">
-                      <h5 class="text-bold">{{ page_category.name }}</h5>
+                      <h5 class="text-bold">{{ category[1].name }}</h5>
                       <p class="m-0">
-                        {% if page_category.name == "Blog" %}
-                          {% if category[1].size == 1 %}
-                            {{ category | last | size }} artigo
+                        {% if category[1].show_articles_count == true %}
+                          {% assign article_count = site.categories[category_name] | size  %}
+                          {% if article_count == 1 %}
+                            {{ article_count }} artigo
                           {% else %}
-                            {{ category | last | size }} artigos
+                            {{ article_count }} artigos
                           {% endif %}
                         {% else %}
                         <br/>

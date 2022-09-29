@@ -4,12 +4,16 @@
 massagens:
   name: Massagens
   description: Massagens que disponibilizamos
+  show_articles_count: false
 servicos:
   name: Serviços
   description: Serviços que disponibilizamos
+  show_articles_count: false
 tratamentos:
   name: Tratamentos
   description: Tratamentos que disponibilizamos
+  show_articles_count: false
 blog:
   name: Blog
-  description: 
+  description:
+  show_articles_count: true
