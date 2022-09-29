@@ -10,9 +10,6 @@ sections:
   path: _data/category_list.yml
   label: Categorias Conteúdo
 - type: document
-  path: _scss/_variables.scss
-  label: Variáveis CSS
-- type: document
   path: _data/authors.yml
   label: Autores
 - type: document
@@ -20,9 +17,6 @@ sections:
   label: Definições gerais
 - type: heading
   label: Conteúdo
-- type: jekyll-pages
-  label: Paginas
-  create: all
 - type: jekyll-posts
   label: Posts
   create: all
