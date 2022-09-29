@@ -11,6 +11,8 @@ sections:
   label: Drafts
   create: all
   match: "**/*"
+- type: heading
+  label: Conteúdo
 - type: jekyll-pages
   label: Paginas
   create: all
