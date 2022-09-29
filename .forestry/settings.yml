@@ -10,7 +10,7 @@ sections:
   create: all
   match: "**/*"
 - type: jekyll-pages
-  label: Pages
+  label: Paginas
   create: all
 - type: jekyll-posts
   label: Posts
