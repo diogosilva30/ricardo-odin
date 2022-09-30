@@ -2,6 +2,11 @@
 label: Definições config.yml
 hide_body: true
 fields:
+- name: google_analytics_tracking_id
+  type: text
+  config:
+    required: false
+  label: Google Analytics Tracking ID
 - type: text
   name: title
   label: Título do Website
@@ -95,3 +100,5 @@ fields:
 - type: text
   name: help_three_link
   label: Link Botão Lado Direito
+pages:
+- _config.yml
