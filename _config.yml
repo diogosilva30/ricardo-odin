@@ -1,98 +1,47 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-#
-# If you need help with YAML syntax, here are some quick references for you: 
-# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
-# https://learnxinyminutes.com/docs/yaml/
-#
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
-
+---
 title: Ricardo Guimarães - Terapeuta
-description: Chamo-me Ricardo Guimarães e abraçei as terapias de massagem há 4 anos. A minha formação na área permite-me efetuar diversos tipos de massagem consoante as necessidades que de momento o paciente possa precisar. Desde massagem com componente mais de relaxamento até à massagem Ayurveda, o importante é cuidar de si para que possa sentir-se melhor e mais equilibrado.
-baseurl:  # the subpath of your site, e.g. /support
-url: https://www.ricardoguimaraes.pt # the base hostname AND PROTOCOL for your site, e.g. http://example.com
-permalink: /:categories/:title
-#Define whether this is a knowledge base, help center, or something else
-content_type: #
-use_authors: true #Set this to false to disable showing post authors
-
+description: Chamo-me Ricardo Guimarães e abraçei as terapias de massagem há 4 anos.
+  A minha formação na área permite-me efetuar diversos tipos de massagem consoante
+  as necessidades que de momento o paciente possa precisar. Desde massagem com componente
+  mais de relaxamento até à massagem Ayurveda, o importante é cuidar de si para que
+  possa sentir-se melhor e mais equilibrado.
+baseurl: 
+url: https://www.ricardoguimaraes.pt
+permalink: "/:categories/:title"
+content_type: 
+use_authors: true
 brand_logo: logo.png
 brand_name: Ricardo Guimarães
 header: Como podemos ajudar?
 subheader: Massagens e tratamentos disponíveis no nosso espaço
-
 meta_image: logo.png
-
-
-# Google analytics tracking ID
-google_analytics_tracking_id:
-
-# Social Links
-twitter_username: 
+twitter_username: ''
 facebook_page: ricardoguimaraestrpt
-github_username:
+github_username: 
 email: info@ricardoguimaraes.pt
 linkedin_page: https://www.linkedin.com/in/guimaraesaricardo/
 instagram_username: ricardoguimaraestrpt
 whatsapp_number: 351935316166
-
-# Navigation
-# nav_item_one: 
-# nav_item_one_link: 
-
-# nav_item_two: 
-# nav_item_two_link: 
-
-# nav_item_three: #
-# nav_item_three_link: #
-
-# nav_button: #
-# nav_button_link: #
-
-# More Help
 help_one_title: Morada
-help_one_content: "Av. Doutor Nicolau Carneiro, nº15, 3º Esquerdo Centro,
-4590-511 Paços de Ferreira, Portugal"
+help_one_content: Av. Doutor Nicolau Carneiro, nº15, 3º Esquerdo Centro, 4590-511
+  Paços de Ferreira, Portugal
 help_one_button: Direções
 help_one_link: https://g.page/ricardoguimaraestrpt?share
-
 help_two_title: Pedidos de informação
-help_two_content: Para pedidos de informação utilize o email abaixo, ou contacte-nos através das nossas redes sociais.
+help_two_content: Para pedidos de informação utilize o email abaixo, ou contacte-nos
+  através das nossas redes sociais.
 help_two_button: Saber mais
 help_two_link: mailto:info@ricardoguimaraes.pt
-
 help_three_title: Marcações
-help_three_content: Para pedidos de marcação utilize o número abaixo, ou contacte-nos através das nossas redes sociais.
+help_three_content: Para pedidos de marcação utilize o número abaixo, ou contacte-nos
+  através das nossas redes sociais.
 help_three_button: Marcar
-help_three_link: "https://wa.me/351935316166/?text="
-
-# Build settings
+help_three_link: https://wa.me/351935316166/?text=
 theme: minima
 plugins:
-  - jekyll-feed
-  - jekyll-last-modified-at
-
-# Exclude from processing.
-# The following items will not be processed, by default.
-# Any item listed under the `exclude:` key here will be automatically added to
-# the internal "default list".
-#
-# Excluded items can be processed by explicitly listing the directories or
-# their entries' file path in the `include:` list.
-#
-
-
+- jekyll-feed
+- jekyll-last-modified-at
 sass:
-  sass_dir:          _scss
-  style:            :compressed
+  sass_dir: _scss
+  style: ":compressed"
+google_analytics_tracking_id: ''

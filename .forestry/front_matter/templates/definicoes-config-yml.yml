@@ -100,3 +100,5 @@ fields:
 - type: text
   name: help_three_link
   label: Link Botão Lado Direito
+pages:
+- _config.yml
