@@ -7,9 +7,10 @@
   <body>
     {{ content }}
 
-    {% include footer.html %}
+    {% if jekyll.environment == 'production' and site.google_analytics_tracking_id %}
+    {% include ganalytics.html %}
+    {% endif %}
 
-    
-    
+    {% include footer.html %}
   </body>
 </html>

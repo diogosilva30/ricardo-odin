@@ -35,6 +35,9 @@ subheader: Massagens e tratamentos disponíveis no nosso espaço
 meta_image: logo.png
 
 
+# Google analytics tracking ID
+google_analytics_tracking_id:
+
 # Social Links
 twitter_username: 
 facebook_page: ricardoguimaraestrpt
