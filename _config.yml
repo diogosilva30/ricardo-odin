@@ -10,11 +10,11 @@ url: https://www.ricardoguimaraes.pt
 permalink: "/:categories/:title"
 content_type: 
 use_authors: true
-brand_logo: "/profile.png"
+brand_logo: "/assets/logo_color.png"
 brand_name: Ricardo Guimarães
 header: Como podemos ajudar?
 subheader: Massagens e tratamentos disponíveis no nosso espaço
-meta_image: "/profile.png"
+meta_image: "/assets/logo_color.png"
 twitter_username: ''
 facebook_page: ricardoguimaraestrpt
 github_username: 
