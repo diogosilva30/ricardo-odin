@@ -34,27 +34,30 @@ Existem algumas massagens que utilizam os braços e pernas nas suas manipulaçõ
 
 A massagem terapêutica está indicada e pode ser feita em qualquer idade e nas mais diversas situações clínicas.
 
-A pressão e as técnicas utilizadas são escolhidas e adaptadas para cada pessoa. Os profissionais são devidamente formados e treinados para realizar um diagnostico antes de iniciar a massagem para garantir a sua segurança e satisfação.
+A pressão e as técnicas utilizadas são escolhidas e adaptadas para cada pessoa. Os profissionais na área da massagem são devidamente formados e treinados para realizar um diagnóstico antes de iniciarem a massagem para garantir a sua segurança e satisfação.
 
-Pelas suas diversas técnicas e efeitos, a massagem terapêutica pode dar um contributo muito apreciável para a melhoria do quadro clínico de algumas patologias e pode ser prescrita em quase todas as situações, conforme as apresentadas como exemplo:
+A massagem terapêutica pode dar um contributo muito benéfico para a melhoria do quadro clínico de algumas patologias, e pode ser prescrita em quase todas as situações.
 
-* Cervicalgias, dorsalgias, lombalgias
-* Ciatalgia
-* Constipação
-* Coxartroses (artrose da anca)
-* Debilidade física
-* Depressão
-* Dores musculares e contracturas
-* Dores reumáticas
-* Entorses
-* Enxaquecas
-* Fadiga muscular após exercício
-* Gonartroses (artrose do joelho)
-* Hematomas
-* Luxações
-* Má postura
-* Obstipação
-* Problemas de coluna
-* Stress
-* Tensão muscular
-* Torcicolo
+Alguns exemplos de patologias músculo-esqueléticas e sintomas onde a massagem terapêutica pode ajudar no tratamento e prevenção:
+
+* cervicalgias, dorsalgias, lombalgias;
+* ciatalgia;
+* coxartroses (artrose da anca);
+* debilidade física;
+* depressão;
+* dores musculares e contracturas;
+* dores reumáticas;
+* entorses;
+* enxaquecas;
+* fadiga muscular após exercício;
+* gonartroses (artrose do joelho);
+* hematomas;
+* luxações;
+* má postura;
+* obstipação;
+* problemas de coluna;
+* stress;
+* tensão muscular;
+* torcicolo.
+
+A massagem terapêutica não 
