@@ -61,4 +61,4 @@ Alguns exemplos de patologias músculo-esqueléticas e sintomas onde a massagem 
 * tensão muscular;
 * torcicolo.
 
-Aquando da realização da massagem, converse e aconselhe-se com o profissional de massagem que irá proceder à massagem consigo, para que ele possa adequar qual o melhor tratamento para a sua situação. 
+Aquando da realização da massagem, converse e aconselhe-se com o profissional de massagem que irá proceder à massagem consigo, para que ele possa adequar qual o melhor tratamento para a sua situação.
