@@ -9,7 +9,7 @@ short-description:
 ---
 ## Tratar e prevenir a dor e tensão muscular
 
-As massagens terapêuticas têm como objetivo aliviar a dor resultante do stress, as contracturas musculares e dores devido a postura ou esforços repetitivos.
+As massagens terapêuticas têm como objetivo aliviar a dor resultante do stress, as contracturas musculares e dores devido a más posturas ou esforços repetitivos.
 
 Ao trabalharmos estes problemas, obtém-se um efeito de relaxamento intenso e bem-estar físico geral.
 
