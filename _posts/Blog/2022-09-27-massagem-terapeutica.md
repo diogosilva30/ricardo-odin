@@ -13,7 +13,7 @@ short-description:
 
 ## Tratar e prevenir a dor e tensão muscular
 
-As massagens terapêuticas têm como objetivo aliviar a dor resultante do stress, as contracturas musculares e dores devido a postura ou esforços repetitivos. 
+As massagens terapêuticas têm como objetivo aliviar a dor resultante do stress, as contracturas musculares e dores devido a postura ou esforços repetitivos.
 
 Ao trabalharmos estes problemas, obtém-se um efeito de relaxamento intenso e bem-estar físico geral.
 
@@ -30,11 +30,13 @@ Entre alguns dos benefícios da massagem terapêutica, estes são alguns dos mai
 * diminuição dos níveis de cortisol;
 * aumento dos níveis das endorfinas.
 
-A massagem terapêutica manual tem sido utilizada já há várias centenas de anos, existindo hoje uma variadíssima oferta de massagens que diferem nas técnicas utilizadas. Todas atuam principalmente com a pressão, fricção e manipulação muscular e dos restantes tecidos moles com os dedos e mãos. Existem algumas massagens que utilizam os braços e pernas nas suas manipulações além de alguns utensílios como é o caso da Ventosaterapia ou Bambuterapia que podem ser combinadas com as técnicas de massagem.
+A massagem terapêutica manual existe há centenas de anos, e actualmente existe uma vasta oferta de massagens que diferem nas técnicas utilizadas. Todas elas actuam principalmente com pressão, fricção e manipulação nos tecidos musculares e restantes tecidos moles, usando os dedos e as mãos.
+
+ Existem algumas massagens que utilizam os braços e pernas nas suas manipulações, bem como é empregue a utilização de alguns utensílios, como é o caso da Ventosaterapia ou Bambuterapia, que podem ser combinadas com as técnicas de massagem.
 
 # Massagens Terapêuticas: Indicação e Tratamentos
 
-A massagem terapêutica pode ser executada em qualquer idade e em diversas situações clínicas.
+A massagem terapêutica está indicada e pode ser feita em qualquer idade e nas mais diversas situações clínicas.
 
 A pressão e as técnicas utilizadas são escolhidas e adaptadas para cada pessoa. Os profissionais são devidamente formados e treinados para realizar um diagnostico antes de iniciar a massagem para garantir a sua segurança e satisfação.
 
