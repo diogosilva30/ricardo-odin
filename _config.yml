@@ -1,5 +1,5 @@
 ---
-title: Ricardo Guimarães - Terapeuta
+title: 'Ricardo Guimarães - Terapeuta '
 description: Chamo-me Ricardo Guimarães e abraçei as terapias de massagem há 4 anos.
   A minha formação na área permite-me efetuar diversos tipos de massagem consoante
   as necessidades que de momento o paciente possa precisar. Desde massagem com componente
@@ -10,11 +10,11 @@ url: https://www.ricardoguimaraes.pt
 permalink: "/:categories/:title"
 content_type: 
 use_authors: true
-brand_logo: "logo.png"
+brand_logo: logo.png
 brand_name: Ricardo Guimarães
 header: Como podemos ajudar?
 subheader: Massagens e tratamentos disponíveis no nosso espaço
-meta_image: "logo_color.png"
+meta_image: logo_color.png
 twitter_username: ''
 facebook_page: ricardoguimaraestrpt
 github_username: 
