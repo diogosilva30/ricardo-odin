@@ -7,10 +7,6 @@ author: ricardo
 short-description: 
 
 ---
-***
-
-# Massagens Terapêuticas: Os Benefícios
-
 ## Tratar e prevenir a dor e tensão muscular
 
 As massagens terapêuticas têm como objetivo aliviar a dor resultante do stress, as contracturas musculares e dores devido a postura ou esforços repetitivos.
@@ -32,9 +28,9 @@ Entre alguns dos benefícios da massagem terapêutica, estes são alguns dos mai
 
 A massagem terapêutica manual existe há centenas de anos, e actualmente existe uma vasta oferta de massagens que diferem nas técnicas utilizadas. Todas elas actuam principalmente com pressão, fricção e manipulação nos tecidos musculares e restantes tecidos moles, usando os dedos e as mãos.
 
- Existem algumas massagens que utilizam os braços e pernas nas suas manipulações, bem como é empregue a utilização de alguns utensílios, como é o caso da Ventosaterapia ou Bambuterapia, que podem ser combinadas com as técnicas de massagem.
+Existem algumas massagens que utilizam os braços e pernas nas suas manipulações, bem como é empregue a utilização de alguns utensílios, como é o caso da Ventosaterapia ou Bambuterapia, que podem ser combinadas com as técnicas de massagem.
 
-# Massagens Terapêuticas: Indicação e Tratamentos
+# Indicação e Tratamentos
 
 A massagem terapêutica está indicada e pode ser feita em qualquer idade e nas mais diversas situações clínicas.
 
