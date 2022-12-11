@@ -56,8 +56,9 @@ Alguns exemplos de patologias músculo-esqueléticas e sintomas onde a massagem 
 * má postura;
 * obstipação;
 * problemas de coluna;
+* retenção de líquidos;
 * stress;
 * tensão muscular;
 * torcicolo.
 
-A massagem terapêutica não 
+Aquando da realização da massagem, converse e aconselhe-se com o profissional de massagem que irá proceder à massagem consigo, para que ele possa adequar qual o melhor tratamento para a sua situação. 
