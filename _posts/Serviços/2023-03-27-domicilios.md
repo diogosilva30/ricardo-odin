@@ -3,7 +3,7 @@ layout: post
 title: Domicilios
 date: 2023-03-27 00:00:00 +0100
 category: servicos
-subcategory: ''
+subcategory: servicos
 author: ricardo
 short-description: ''
 
