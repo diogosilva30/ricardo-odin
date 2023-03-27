@@ -23,3 +23,5 @@ fields:
 - type: text
   name: short-description
   label: short-description
+pages:
+- _posts/Serviços/domicilios.md
