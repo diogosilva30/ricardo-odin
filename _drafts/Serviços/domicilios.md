@@ -1,10 +1,10 @@
 ---
-layout: ''
+layout: post
 title: Domicilios
 date: 2023-03-27 00:00:00 +0100
-category: ''
+category: serviços
 subcategory: ''
-author: ''
+author: ricardo
 short-description: ''
 
 ---
