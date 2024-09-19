@@ -1,4 +1,4 @@
----
 ricardo:
   name: Ricardo Guimarães
-  image: "/img_7236.JPG"
+  image: /img_7236.JPG
+_template: autores

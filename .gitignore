@@ -4,3 +4,6 @@ _site
 .jekyll-metadata
 vendor
 Odin.ai
+node_modules
+.env
+admin/index.html
