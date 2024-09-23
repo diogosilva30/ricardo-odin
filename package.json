@@ -1,0 +1,20 @@
+{
+  "name": "ricardoguimaraes",
+  "version": "1.0.0",
+  "description": "<h1 align=\"center\"> Ricardo Guimarães Massage Therapist Website </h1>",
+  "main": "index.js",
+  "scripts": {
+    "dev": "tinacms dev -c 'jekyll serve --livereload'",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "tinacms": "^2.2.4"
+  },
+  "devDependencies": {
+    "@tinacms/cli": "^1.6.4",
+    "@types/node": "^22.5.5"
+  }
+}

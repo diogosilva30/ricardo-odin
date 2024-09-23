@@ -1,14 +1,23 @@
----
-title: 'Ricardo Guimarães - Terapeuta '
-description: Chamo-me Ricardo Guimarães e abraçei as terapias de massagem há 4 anos.
-  A minha formação na área permite-me efetuar diversos tipos de massagem consoante
-  as necessidades que de momento o paciente possa precisar. Desde massagem com componente
-  mais de relaxamento até à massagem Ayurveda, o importante é cuidar de si para que
-  possa sentir-se melhor e mais equilibrado.
-baseurl: 
-url: https://www.ricardoguimaraes.pt
-permalink: "/:categories/:title"
-content_type: 
+baseurl: null
+permalink: '/:categories/:title'
+content_type: null
+github_username: null
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-last-modified-at
+sass:
+  sass_dir: _scss
+  style: ':compressed'
+google_analytics_tracking_id: G-XLTDBVX9BM
+title: Ricardo Guimarães - Terapeuta
+description: >-
+  Chamo-me Ricardo Guimarães e abraçei as terapias de massagem há 4 anos. A
+  minha formação na área permite-me efetuar diversos tipos de massagem consoante
+  as necessidades que de momento o paciente possa precisar. Desde massagem com
+  componente mais de relaxamento até à massagem Ayurveda, o importante é cuidar
+  de si para que possa sentir-se melhor e mais equilibrado.
+url: 'https://www.ricardoguimaraes.pt'
 use_authors: true
 brand_logo: logo.png
 brand_name: Ricardo Guimarães
@@ -17,31 +26,25 @@ subheader: Massagens e tratamentos disponíveis no nosso espaço
 meta_image: logo_color.png
 twitter_username: ''
 facebook_page: ricardoguimaraestrpt
-github_username: 
 email: info@ricardoguimaraes.pt
-linkedin_page: https://www.linkedin.com/in/guimaraesaricardo/
+linkedin_page: 'https://www.linkedin.com/in/guimaraesaricardo/'
 instagram_username: ricardoguimaraestrpt
 whatsapp_number: 351935316166
-help_one_title: Morada
-help_one_content: Av. Doutor Nicolau Carneiro, nº15, 3º Esquerdo Centro, 4590-511
-  Paços de Ferreira, Portugal
+help_one_title:  Morada
+help_one_content: >-
+  Av. Doutor Nicolau Carneiro, nº15, 3º Esquerdo Centro, 4590-511 Paços de
+  Ferreira, Portugal
 help_one_button: Direções
-help_one_link: https://g.page/ricardoguimaraestrpt?share
+help_one_link: 'https://g.page/ricardoguimaraestrpt?share'
 help_two_title: Pedidos de informação
-help_two_content: Para pedidos de informação utilize o email abaixo, ou contacte-nos
-  através das nossas redes sociais.
+help_two_content: >-
+  Para pedidos de informação utilize o email abaixo, ou contacte-nos através das
+  nossas redes sociais.
 help_two_button: Saber mais
-help_two_link: mailto:info@ricardoguimaraes.pt
+help_two_link: 'mailto:info@ricardoguimaraes.pt'
 help_three_title: Marcações
-help_three_content: Para pedidos de marcação utilize o número abaixo, ou contacte-nos
-  através das nossas redes sociais. (chamada para a rede móvel nacional)
+help_three_content: >-
+  Para pedidos de marcação utilize o número abaixo, ou contacte-nos através das
+  nossas redes sociais. (chamada para a rede móvel nacional)
 help_three_button: Marcar
-help_three_link: https://wa.me/351935316166/?text=
-theme: minima
-plugins:
-- jekyll-feed
-- jekyll-last-modified-at
-sass:
-  sass_dir: _scss
-  style: ":compressed"
-google_analytics_tracking_id: G-XLTDBVX9BM
+help_three_link: 'https://wa.me/351935316166/?text='
