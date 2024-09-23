@@ -3,15 +3,15 @@
 
 massagens:
   name: Massagens
-  description: Massagens que disponibilizamos
+  description: Massagens disponíveis no nosso espaço
   show_articles_count: false
 servicos:
   name: Serviços
-  description: Serviços que disponibilizamos
+  description: Serviços disponíveis no nosso espaço
   show_articles_count: false
 tratamentos:
   name: Tratamentos
-  description: Tratamentos que disponibilizamos
+  description: Tratamentos disponíveis no nosso espaço
   show_articles_count: false
 blog:
   name: Blog
