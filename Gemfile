@@ -5,6 +5,9 @@ source "https://rubygems.org"
 #
 #     bundle exec jekyll serve
 #
+
+ruby "3.2.2"
+
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
 gem "jekyll", "~> 4.0.0"
